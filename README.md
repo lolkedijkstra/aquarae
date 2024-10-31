@@ -1,6 +1,6 @@
 # Aquarae Project Setup
 
-I would suggest working using the CLI and Git. This way the developer can work locally on his own hardware and sync with the remote repository. It can be either my repository or the repository of the contractor. In the first case I will have to upload the public keys (ssh), in the latter case I can pull from the repository of the contractor. 
+I would suggest working using the CLI and Git as it makes development much more efficient and in addition, the code (theme) is easy to share. Doing this the developer can work locally on his own hardware and sync with the remote repository branch. It can be either my repository or the repository of the contractor. In the first case I will upload the public keys (ssh), in the latter case I can pull from the repository of the contractor, after receiving a notification. In addition it would allow me to first test locally (acceptance test) before deploying to the live website. It also allows feature testing, that I can subsequently try out locally.
 
 ## Workflow Summary
 - work and test locally in development or feature branch
