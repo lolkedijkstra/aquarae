@@ -56,22 +56,22 @@ I would suggest working using the CLI and Git as it makes development much more 
 1. install brew
 2. install shopify CLI
 
-> ``brew install node``
-> ``brew postinstall node``
-> ``node —version``
+> ``brew install node``  
+> ``brew postinstall node``  
+> ``node —version``  
 
 Response: ``23.1.0``
    
-> ``brew install nvm`` 
-> ``source ~/.zprofile``
-> ``nvm —version``
+> ``brew install nvm``   
+> ``source ~/.zprofile``  
+> ``nvm —version``  
 
 Response: 0.40.0
 
-> ``npm install -g @shopify/cli@latest``
-> ``shopify —version``
+> ``npm install -g @shopify/cli@latest``  
+> ``shopify —version``  
 
-Response: ``@shopify/cli/3.69.4 darwin-arm64 node-v23.1.0``
+Response: ``@shopify/cli/3.69.4 darwin-arm64 node-v23.1.0``  
 
 ## Shopify Install for Themes
 
