@@ -82,7 +82,7 @@ Response: ``@shopify/cli/3.69.4 darwin-arm64 node-v23.1.0``
 Note: an update to [2] can be found here:  
 [2b] https://www.youtube.com/watch?v=_M_VwOVlcFY
 
-> ``shopify theme dev``  
+> ``shopify theme dev --store=0ae31b-0f.myshopify.com``  
 
 Use the email address you registered with on Shopify.  
       
@@ -91,6 +91,7 @@ To run this command, log in to Shopify.
 > 👉 Press any key to open the login page on your browser  
 > Opened link to start the auth process:  
 > &emsp;https://accounts.shopify.com/activate-with-code?device_code%5Buser_code%5D=SKQG-MPQS  
+> Note: if you have to choose an account, use your regular Shopify admin account.  
 > ✔ Logged in.  
 
 ![alt Installing CLI Success](image2.webp "CLI Success")
