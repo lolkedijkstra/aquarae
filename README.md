@@ -15,11 +15,11 @@ I would suggest working using the CLI and Git as it makes development much more 
 ## Setup and Test  Shopify connection with GitHub
 
 **Reference:** \
-[1] https://www.youtube.com/watch?v=72TSwHEhfDs\
+[1] https://www.youtube.com/watch?v=72TSwHEhfDs
 
 ### Steps
 
-**Preparation**\
+**Preparation** \
 1. Set up a GIT repository on GitHub
 2. Install GIT on Mac
 3. Set up SSH access to GitHub
@@ -30,7 +30,7 @@ I would suggest working using the CLI and Git as it makes development much more 
 8. Initial commit and push
 9. Check remote repo
 
-**Connect and Veriry**\
+**Connect and Veriry** \
 1. Connect Shopify to Repo
 2. Make change in Visual Studio Code to `index.json` (adding !  to Browse our latest Products)
 3. Commit and Push
@@ -75,18 +75,18 @@ Response: ``@shopify/cli/3.69.4 darwin-arm64 node-v23.1.0``
 
 ## Shopify Install for Themes
 
-**References:**\
-[2] https://www.youtube.com/watch?v=YM0XOa2LZSs\
-[3] https://www.youtube.com/watch?v=wX7q29PY2ps\
+**References:** \
+[2] https://www.youtube.com/watch?v=YM0XOa2LZSs \
+[3] https://www.youtube.com/watch?v=wX7q29PY2ps \
 
-> ``shopify theme dev``\
+> ``shopify theme dev`` \
 
-Use the email address you registered with on Shopify.\
+Use the email address you registered with on Shopify. \
       
-To run this command, log in to Shopify.\
-> User verification code: ____\
-> 👉 Press any key to open the login page on your browser\
-> Opened link to start the auth process: https://accounts.shopify.com/activate-with-code?device_code%5Buser_code%5D=SKQG-MPQS\
+To run this command, log in to Shopify. \
+> User verification code: ____ \
+> 👉 Press any key to open the login page on your browser \
+> Opened link to start the auth process: https://accounts.shopify.com/activate-with-code?device_code%5Buser_code%5D=SKQG-MPQS \
 > ✔ Logged in.\
 
 ![alt Local Store](image2.png "Local")
