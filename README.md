@@ -90,7 +90,7 @@ To run this command, log in to Shopify.
 > &emsp;https://accounts.shopify.com/activate-with-code?device_code%5Buser_code%5D=SKQG-MPQS  
 > ✔ Logged in.  
 
-![alt Installing CLI Success](image2.webo "CLI Success")
+![alt Installing CLI Success](image2.webp "CLI Success")
 
 ### Result
 
