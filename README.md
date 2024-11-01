@@ -86,7 +86,8 @@ Use the email address you registered with on Shopify.
 To run this command, log in to Shopify.  
 > User verification code: ____  
 > 👉 Press any key to open the login page on your browser  
-> Opened link to start the auth process: https://accounts.shopify.com/activate-with-code?device_code%5Buser_code%5D=SKQG-MPQS  
+> Opened link to start the auth process:  
+> &emsp;https://accounts.shopify.com/activate-with-code?device_code%5Buser_code%5D=SKQG-MPQS  
 > ✔ Logged in.  
 
 ![alt Local Store](image2.png "Local")
