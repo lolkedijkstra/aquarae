@@ -48,7 +48,7 @@ I would suggest working using the CLI and Git as it makes development much more 
 
 ### Result
 
-![alt Shopify Admin](image1.png "Shopify Admin")
+![alt Shopify Git Connection](image1.webp "Shopify Git Connection")
 
 
 ## Install Shopify CLI
@@ -90,8 +90,8 @@ To run this command, log in to Shopify.
 > &emsp;https://accounts.shopify.com/activate-with-code?device_code%5Buser_code%5D=SKQG-MPQS  
 > ✔ Logged in.  
 
-![alt Local Store](image2.png "Local")
+![alt Installing CLI Success](image2.webo "CLI Success")
 
 ### Result
 
-![alt Local Store](image3.png "Local")
+![alt Serving Webshop Locally](image3.webp "Local Webshop")
