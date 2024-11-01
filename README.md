@@ -79,6 +79,9 @@ Response: ``@shopify/cli/3.69.4 darwin-arm64 node-v23.1.0``
 [2] https://www.youtube.com/watch?v=YM0XOa2LZSs  
 [3] https://www.youtube.com/watch?v=wX7q29PY2ps  
 
+Note: an update to [2] can be found here:  
+[2b] https://www.youtube.com/watch?v=_M_VwOVlcFY
+
 > ``shopify theme dev``  
 
 Use the email address you registered with on Shopify.  
